@@ -26,6 +26,9 @@ The user enters an amount of change in cents. The program repeatedly uses the la
 
 The total number of coins used is then displayed.
 
+## Image Demo:
+<img width="168" height="38" alt="image" src="https://github.com/user-attachments/assets/3c2d0aa8-d1f4-4b97-98f1-1966d7f39d90" />
+
 ## Installation
 
 Clone the repository:
@@ -43,18 +46,11 @@ cd Cash-Calculator
 Compile the program:
 
 ```bash
-make cash
+make calculator
 ```
 
 Run the program:
 
 ```bash
-./cash
+./calculator
 ```
-
-## What I Learned
-
-- Writing modular code with functions
-- Using loops to solve repetitive tasks
-- Applying the greedy algorithm
-- Improving problem-solving in C
